@@ -16,7 +16,6 @@
     "autoload": {
         "psr-4": {
             "ETO\\Common\\": "src/Common"
-        },
-        "files": ["src/Common/functions.php"]  
+        }
     }
 }

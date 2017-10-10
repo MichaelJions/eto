@@ -37,7 +37,7 @@ class ETOPHP
 	 * 初始化自动加载机制
 	 */
 	private static function AutoLoadInit(){
-		require 'vendor/autoload.php';
+		require '../vendor/autoload.php';
 	}
 
 
