@@ -13,15 +13,6 @@
     "require": {
         "php": ">=7.0.0"
     },
-    "require-dev": {
-        "noahbuscher/macaw": "dev-master",
-        "illuminate/database": "*",
-        "smarty/smarty": "*",
-        "predis/predis": "*",
-        "filp/whoops": "*",
-        "monolog/monolog": "1.*",
-        "phpmailer/phpmailer": "~5.2",
-    },
     "autoload": {
         "psr-4": {
             "ETO\\Common\\": "src/Common"
